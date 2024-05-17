@@ -10,3 +10,4 @@ sources:
       - name: actor
       - name: customer
       - name: film
+      - name: payment
