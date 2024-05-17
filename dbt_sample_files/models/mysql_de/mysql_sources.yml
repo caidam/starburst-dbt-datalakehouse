@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: mysql_de
+    description: Sample TPCH data
+    # loader: sample
+    catalog: mysql_test
+    schema: dataengineer 
+    tables:
+      - name: actor
+      - name: customer
+      - name: film
