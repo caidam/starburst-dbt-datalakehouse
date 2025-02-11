@@ -32,7 +32,7 @@ The below steps can also be achieved using a Trino instance, make sure to refer 
 - Connect MYSQL Catalog
 - Check data and sample data
 
-> Include a note about Starburt's free tier limitations
+> Note that Starburt's free tier has some limitations that may be considered before implementing this, notably regarding available regions for the different cloud providers.
 
 ## Set up ETL with dbt Cloud
 
